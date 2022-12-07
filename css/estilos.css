@@ -1,0 +1,15 @@
+img.zoom {
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    -ms-transition: all .2s ease-in-out;
+    cursor: pointer;
+    cursor: hand;
+}
+
+.principal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
